@@ -12,6 +12,10 @@ PushBullet-YTDL is a lightweight pure bash service for for YouTube-dl and Pushbu
 
 ## Usage
 
+To use simply share a video from the source app (e.g. YouTube app) on your phone to the PushBullet device running PushBullet-YTDL.
+
+***Note:*** Obviously Pushbullet is required to be installed on your device, and the source app too...
+## Setup
 
 * Create a Pushbullet account if one does not already exist
 * Generate an API key in the Pushbullet web interface
